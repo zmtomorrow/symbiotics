@@ -11327,7 +11327,7 @@ img.bg-video {
   min-height: 100%;
   width: auto;
   height: auto;
-  transform: translateX(-10%) translateY(-50%);
+  transform: translateX(-20%) translateY(-40%);
   z-index: 0;
 }
 
